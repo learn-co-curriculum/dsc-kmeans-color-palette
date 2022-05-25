@@ -10,6 +10,8 @@ May 25, 2022
 
 https://github.com/learn-co-curriculum/dsc-kmeans-color-palette
 
+Click this button to launch an interactive notebook in the browser: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/learn-co-curriculum/dsc-kmeans-color-palette/HEAD?labpath=kmeans_palette.ipynb)
+
 Images generated in this workshop:
 
 ![fashion plate with color palette](fashion_color_palette.png)
